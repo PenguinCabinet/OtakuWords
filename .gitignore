@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/brainfuxk-d
+brainfuxk-d.so
+brainfuxk-d.dylib
+brainfuxk-d.dll
+brainfuxk-d.a
+brainfuxk-d.lib
+brainfuxk-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.ilk
+*.pdb
