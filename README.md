@@ -17,6 +17,7 @@
 [一部引用元](https://ja.wikipedia.org/wiki/Brainfuck#Brainfuck%E3%81%AE%E8%A8%80%E8%AA%9E%E4%BB%95%E6%A7%98)
 
 ## ✍Example
+「Hello World!」と出力するプログラム
 ```
 待って待って待って待って待って待って待って待って待って
 尊すぎ尊い
