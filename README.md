@@ -1,6 +1,12 @@
+<div align="center">
+
 # 🧠OtakuWords
 [Brainfuxk](https://ja.wikipedia.org/wiki/Brainfuck)ライクのオタク言語です！！   
 語彙力失いながら、プログラミングしたい時にどうぞ。
+
+<br>
+<br>
+</div>
 
 ## ✅仕様
 |OtakuWords|Brainfuck|動作|
