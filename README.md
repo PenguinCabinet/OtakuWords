@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠OtakuWords
+# 🧠 OtakuWords
 [Brainfuxk](https://ja.wikipedia.org/wiki/Brainfuck)ライクのオタク言語です！！   
 語彙力失いながら、プログラミングしたい時にどうぞ。
 
@@ -8,7 +8,7 @@
 <br>
 </div>
 
-## ✅仕様
+## ✅ 仕様
 |OtakuWords|Brainfuck|動作|
 |---|---|---|
 |推し|<|ポインタをインクリメントする。ポインタをptrとすると、C言語の「ptr++;」に相当する。|
@@ -22,7 +22,7 @@
 
 [一部引用元](https://ja.wikipedia.org/wiki/Brainfuck#Brainfuck%E3%81%AE%E8%A8%80%E8%AA%9E%E4%BB%95%E6%A7%98)
 
-## ✍Example
+## ✍ Example
 「Hello World!」と出力するプログラム
 ```
 待って待って待って待って待って待って待って待って待って
@@ -44,26 +44,26 @@
 
 ```
 
-## 🏗ビルド
+## 🏗 ビルド
 
 ```
 go build
 ```
-# ⇩nstall
+# ⇩ Install
 ```
 go install github.com/PenguinCabinet/OtakuWords@latest
 ```
 
-## 🔨使い方
+## 🔨 使い方
 ```
 OtakuWords input-brainfuck-sourcecode.bf
 ```
 
 
-## 🎫LICENSE
+## 🎫 LICENSE
 
 [MIT](./LICENSE)
 
-## ✍Author
+## ✍ Author
 
 [PenguinCabinet](https://github.com/PenguinCabinet)
